@@ -18,7 +18,7 @@ Simple all In One Google Ads/Analytics, Yandex Direct/Mertrika, Facebook Ads Pix
 
 3. For all classes that you added, you need to call function ConversionTracker() each time. The first parameter of the function is the button class, the second parameter is the name of the conversion.
 
-4. Add this code before </body> tag
+4. Add this code before ```</body>``` tag
 ```html
     <script src="./conversionTracker.js"></script>
     <script>
