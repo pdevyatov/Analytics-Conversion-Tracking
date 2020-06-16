@@ -29,4 +29,4 @@ Simple all In One Google Ads/Analytics, Yandex Direct/Mertrika, Facebook Ads Pix
 
 5. In 'conversionTracker.js' delete any network thay you do not need. If you use Yandex, than you need to insert your account code into it.
 
-6. That's All! Last step is to add conversions in alaytics.
+6. That's All! Last step is to add conversions in analytics.
