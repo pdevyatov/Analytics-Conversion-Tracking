@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics Conversion Tracking exmaple</title>
+</head>
+<body>
+
+    <h1>Analytics Conversion Tracking exmaple</h1>
+
+    <p>Click any btn and see console (F12)</p>
+
+    <button class="firstButton">
+      First Button
+    </button>
+
+    <button class="secondButton">
+      Second Button
+    </button>
+
+    <button class="secondButton">
+      Second Button
+    </button>
+
+    <!-- Insert this code -->
+    <script src="./conversionTracker.js"></script>
+    <script>
+      conversionTracker('firstButton', 'nameOfConversion')
+      conversionTracker('secondButton', 'nameOfConversion2')
+    </script>
+    <!-- Insert this code -->
+  
+
+</body>
+</html>
