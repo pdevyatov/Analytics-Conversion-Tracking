@@ -4,7 +4,7 @@ function conversionTracker(buttonsClass, conversionName) {
 
     if (conversionButtons.length) {
         for (let i = 0; i < conversionButtons.length; i++) {
-            conversionButtons[i].addEventListener("mousedown", function () {
+            conversionButtons[i].addEventListener("click", function () {
 
                 // Yandex
                 ym(00000000, 'reachGoal', conversionName)
