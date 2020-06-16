@@ -29,4 +29,10 @@ Simple all In One Google Ads/Analytics, Yandex Direct/Mertrika, Facebook Ads Pix
 
 5. In 'conversionTracker.js' delete any network thay you do not need. If you use Yandex, than you need to insert your account code into it.
 
-6. That's All! Last step is to add conversions in analytics.
+6. Last step is to add conversions in analytics:
+
+Google Analytics:
+Administrator => Goals => New Goal => Own => Type any title and choose Event => Type in "Category" & in "Action" name of your conversion. Example: nameOfConversion
+
+Yandex Metrica:
+Settings => Goals => Add Goal => JavaScript Event => In "Goal ID" type name of your conversion
