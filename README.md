@@ -3,7 +3,7 @@ Simple all In One Google Ads/Analytics, Yandex Direct/Mertrika, Facebook Ads Pix
 
 # How to use
 
-1. Put the "conversionTracker.js" in yor site folded.
+1. Put the "conversionTracker.js" in yor site folder.
 
 2. Add some class to any buttons, links, or items on the page. For example:
 ```html
